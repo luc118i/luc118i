@@ -2,6 +2,6 @@
 - 👀 Tenho interesse em Desenvolvimento Full Stack, Computação em Nuvem, Docker e IA.
 - 🌱 Atualmente estou aprendendo mais sobre Azure, Docker e avançando minhas habilidades em React e TypeScript.
 - 💞️ Estou buscando colaborar em projetos open-source, especialmente nas áreas de desenvolvimento web, cloud e IA.
-- 📫 Como me encontrar: Você pode me enviar um e-mail para luccasinaacio@gmail.com ou me encontrar no [LinkedIn](https://www.linkedin.com/in/luc118i).
+- 📫 Como me encontrar: Você pode me enviar um e-mail para luccasinaacio@gmail.com ou me encontrar no [LinkedIn](https://www.linkedin.com/in/lucas-da-silva-27956619b/).
 - 😄 Pronomes: Ele/Dele
 - ⚡ Curiosidade: Sou apaixonado por tecnologia e adoro aprender coisas novas todos os dias!
